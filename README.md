@@ -4,7 +4,7 @@
 Spectral Graph Convolution(DMQA open seminar on 2022.07.15)
 
 Contents:
-> Graph data & structure<br/> 
+> ### Graph data & structure<br/> 
 > Graph Fourier Transform<br/> 
 > Spectral Graph Convolution<br/> 
 > Spectral Graph CNN (Brunaet al. ICLR 2014)<br/> 
