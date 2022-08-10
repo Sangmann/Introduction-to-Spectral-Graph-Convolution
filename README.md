@@ -3,13 +3,13 @@
 
 - Spectral Graph Convolution(DMQA open seminar on 2022.07.15)
 
-Contents:<br/>
+- Contents:<br/>
 > Graph data & structure<br/>
 > Graph Fourier Transform<br/> 
 > Spectral Graph Convolution<br/> 
->#### Spectral Graph CNN (Brunaet al. ICLR 2014)<br/> 
->#### ChebNet(Defferardet al. NIPS 2016)<br/> 
->#### Simplified ChebNet(Kipf& Welling, ICLR 2017)<br/> 
+> Spectral Graph CNN (Brunaet al. ICLR 2014)<br/> 
+> ChebNet(Defferardet al. NIPS 2016)<br/> 
+> Simplified ChebNet(Kipf& Welling, ICLR 2017)<br/> 
 
 
 - Video: https://youtu.be/YsyIXqdhreo<br/>
