@@ -1,10 +1,16 @@
 # Introduction-to-Spectral-Graph-Convolution
+
+
 Spectral Graph Convolution
+
+Contents:
+>> Graph data & structure
+
 
 2022.07.15
 
-Video: https://youtu.be/YsyIXqdhreo
+- Video: https://youtu.be/YsyIXqdhreo
 
-Material: [Introduction to Graph Neural Networks(Spectral Graph Convolution).pdf](https://github.com/Sangmann/Introduction-to-Spectral-Graph-Convolution/files/9299584/Introduction.to.Graph.Neural.Networks.Spectral.Graph.Convolution.pdf)
+- Material: [Introduction to Graph Neural Networks(Spectral Graph Convolution).pdf](https://github.com/Sangmann/Introduction-to-Spectral-Graph-Convolution/files/9299584/Introduction.to.Graph.Neural.Networks.Spectral.Graph.Convolution.pdf)
 
-Q & A: [Spectral graph convolution q&a.pdf](https://github.com/Sangmann/Introduction-to-Spectral-Graph-Convolution/files/9299599/Spectral.graph.convolution.q.a.pdf)
+- Q & A: [Spectral graph convolution q&a.pdf](https://github.com/Sangmann/Introduction-to-Spectral-Graph-Convolution/files/9299599/Spectral.graph.convolution.q.a.pdf)
