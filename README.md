@@ -1,21 +1,16 @@
 # Introduction-to-Spectral-Graph-Convolution
 
 
-Spectral Graph Convolution
+Spectral Graph Convolution(DMQA open seminar on 2022.07.15)
 
 Contents:
 > Graph data & structure
 > Graph Fourier Transform
 > Spectral Graph Convolution
-> Spectral Graph CNN (Brunaet al. ICLR 2014)![image](https://user-images.githubusercontent.com/80092903/183891503-73236736-4ebb-4bfb-bfed-fbffe6e100ba.png)
+> Spectral Graph CNN (Brunaet al. ICLR 2014)
 > ChebNet(Defferardet al. NIPS 2016)
 > Simplified ChebNet(Kipf& Welling, ICLR 2017)
-![image](https://user-images.githubusercontent.com/80092903/183891540-bcc39f67-26f7-4c63-a43a-3f34bca70660.png)
 
-
-
-
-2022.07.15
 
 - Video: https://youtu.be/YsyIXqdhreo
 
